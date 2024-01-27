@@ -10,13 +10,9 @@ SECSpell 是一个基于开源社区运营的安全项目，吸收AICA（Autonom
 
 ## 当前在进行的项目如下：
 
-[Disillusion:]( https://github.com/SECSpell/Disillusion)
+[Disillusion:]( https://github.com/SECSpell/Disillusion) 利用生成模型仿真能力的动态蜜饵
 
-利用生成模型仿真能力的动态蜜饵
-
-[Memoria:] (https://mp.weixin.qq.com/s/ZDmqpIB5SA5oF3yhl7Zybw)
-
-基于安全知识的 RAG  系统
+[Memoria:](https://mp.weixin.qq.com/s/ZDmqpIB5SA5oF3yhl7Zybw) 基于安全知识的 RAG  系统
 
 ## 预计在 2024 年 2 月底前完成的工作如下
 
